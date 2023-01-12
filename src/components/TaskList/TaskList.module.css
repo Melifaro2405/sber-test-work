@@ -1,0 +1,26 @@
+main {
+    margin: auto;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid gray;
+    padding: 15px;
+}
+
+tr:hover {
+    background-color: #f8f7f7;
+}
+
+.thead {
+    font-weight: bold;
+}
+
+.deleteTask {
+    cursor: pointer;
+    color: red;
+    text-align: center;
+}
